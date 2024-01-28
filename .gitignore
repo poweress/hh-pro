@@ -3,4 +3,4 @@
 .idea
 /data/
 **/lib/
-**/hh_venv/
+/venv/

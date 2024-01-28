@@ -49,7 +49,7 @@
 
 ## Установка проекта
 
-<img src=./charts/icons8-github.gif> <p> ```git clone https://github.com/poweress/project-1.git``` </p>
+<img src=./charts/icons8-github.gif> <p> ```git clone https://github.com/poweress/hh-pro.git``` </p>
 
 ## Использование
 [Вся информация о работе представлена в jupyter-ноутбуке]( Project-1._Ноутбук-шаблон.ipynb)

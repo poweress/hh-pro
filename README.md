@@ -11,6 +11,7 @@
 
 ## ОРГАНИЗАЦИОННАЯ ИНФОРМАЦИЯ
 
+<img src=./charts/info.png>
 
 **Проект будет состоять из четырёх частей:**
 
@@ -24,7 +25,7 @@
 
 
 
-<img src=./charts/icons8-chat-message.gif>
+<img src=./charts/icons8-chat-message.png>
 
 **О структуре проекта:**
 * [data](./data) - папка с исходными табличными данными
@@ -35,6 +36,9 @@
 
 
 ## Описание данных
+
+<img src=./charts/cloud.png>
+
 * В этом проекте используются данные с HeadHunter [скачать](https://drive.google.com/file/d/1PO6uJwsw7LVwEVA5X0c1iBHzMlLUnB4L/view?usp=sharing)
 * В этом датасете курсы валют [скачать](https://drive.google.com/file/d/1PO6uJwsw7LVwEVA5X0c1iBHzMlLUnB4L/view?usp=sharing)
 
@@ -49,7 +53,9 @@
 
 ## Установка проекта
 
-<img src=./charts/icons8-github.gif> <p> ```git clone https://github.com/poweress/hh-pro.git``` </p>
+<img src=./charts/icons8-github.png><p> ```git clone https://github.com/poweress/hh-pro.git``` </p>
+
+
 
 ## Использование
 [Вся информация о работе представлена в jupyter-ноутбуке]( Project-1._Ноутбук-шаблон.ipynb)
